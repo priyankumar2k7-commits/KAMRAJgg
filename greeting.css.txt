@@ -1,0 +1,18 @@
+/* greeting.css */
+body {
+    background-color: #f0f8ff;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding-top: 100px;
+}
+
+h1 {
+    color: #2e8b57;
+    font-size: 48px;
+    text-shadow: 2px 2px 5px rgba(0,0,0,0.2);
+}
+
+p {
+    color: #555;
+    font-size: 24px;
+}
